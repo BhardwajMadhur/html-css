@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.Container1
+{
+    position: relative;
+    text-align: center;
+    content: white;
+}
+.Container2
+{
+    position: relative;
+    text-align: center;
+    content: rgb(245, 142, 24);
+}
+.Middle
+{
+    position: absolute;
+    top: 50%;
+    left: 60%;
+}
+#img{
+    width: 100%;
+    height: 100vh;
+}
+.Container1 #p1
+{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    color:rgb(124, 240, 15);
+    font-family: cursive;
+    font-size: 46px;
+}
+.Container1 #p2
+{
+    border-radius: 2%;
+    border-style: solid;
+    position: absolute;
+    top: 50%;
+    left: 60%;
+    color:rgb(255, 255, 255);
+    font-family: cursive;
+    font-size: 46px;
+
+}
+.Container2 #p3
+{
+    color: brown;
+    background-color: orange;
+}
+.Container3
+{
+    position: relative;
+    text-align: center;
+    content: white;
+}
+.Container4
+{
+    position: relative;
+    text-align: center;
+    content: white;
+}
+.Container5
+{
+    position: relative;
+    text-align: center;
+    content: white;
+}
+.Container6
+{
+    position: relative;
+    text-align: center;
+    content: white;
+}
+.Container5 #p5
+{
+    color: brown;
+    background-color: orange;
+    float: left;
+    width: 33.33%;
+}
+.Container4 #p4
+{
+    color: brown;
+    background-color: rgb(94, 255, 0);
+    float:left;
+    width: 33.33%;
+}
+.Container6 #p6
+{
+    color: brown;
+    background-color: rgb(51, 255, 0);
+    float: left;
+    width: 33.33%;
+}

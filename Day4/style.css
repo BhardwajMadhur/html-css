@@ -1,0 +1,119 @@
+*
+{
+    padding: 0%;
+    margin: 0%;
+}
+.Contaner
+{
+    margin: auto;
+}
+header
+{
+    display: flex;
+    justify-content: end;
+    /* justify-content: space-evenly; */
+    align-items: center;
+    /* vertical-align: auto; */
+    /* text-align: center; */
+    color: rgb(141, 8, 8);
+    width: 100%;
+    height: 15vh;
+    background-color: rgb(0, 0, 0);
+    font-family: 'Courier New', Courier, monospace;
+}
+.h2
+{
+    padding: 3vh;
+}
+.artical
+{
+    position: relative;
+    text-align:start ;
+    color: aliceblue;
+    width: 100%;
+    height: 85vh;
+}
+.artical #img1
+{
+    position: absolute;
+    display: flex;
+    align-items: flex-start;
+    text-align: center;
+    width: 100%;
+    height: 85vh;
+}
+.artical #imgtxt
+{
+    position: absolute;
+    display: flex;
+    align-items: flex-start;
+    text-align: center;
+    color: rgb(3, 3, 3);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 66px;
+    width: 100%;
+    height: 85vh;
+}
+h1
+{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.sec-1 .circle
+{
+    display: flex;
+    float: left;
+    /* background-image: url("http://m.gettywallpapers.com/akatsuki-hd-wallpapers/"); */
+    /* justify-content: start; */
+    align-items: center;
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    border-radius: 50%;
+    overflow: hidden;
+    box-shadow: 10px 10px 10px gray;
+    
+}
+/* #art-1
+{
+    display: flex;
+    float: left;
+    width: 50%;
+} */
+#d1
+{
+    display: flex;
+    float: left;
+    width: 50%;
+    border: 5px solid black;
+    
+}
+#d2
+{
+    display: flex;
+    float: left;
+    width: 100px;
+    height: 100px;
+    padding-left: 20px;
+}
+#d3
+{
+    display: flex;
+    float: left;
+    width: 100px;
+    height: 100px;
+    padding-left: 100px;
+}
+#d4
+{
+    display: flex;
+    float: right;
+    width: 100px;
+    height: 100px;
+    padding-right: 120px;
+}
+#pov
+{
+    position: absolute;
+    text-align:start ;
+}

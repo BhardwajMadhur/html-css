@@ -1,0 +1,17 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.title{
+    color: rgb(238, 238, 238);
+    font-family: cursive;
+}
+.Text{
+    color: rgb(139, 7, 233);
+    font-family: cursive;
+}
+.IMG
+{
+    margin-left: 11cm;
+    /* margin-right: 50%; */
+}
