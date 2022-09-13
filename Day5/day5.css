@@ -39,7 +39,7 @@
 }
 
 .car {
-    background-image: url("car.png");
+    background-image: url("strangerthings\ \(3\).png");
     background-repeat: no-repeat;
     background-size: cover;
     width: 17rem;
@@ -51,28 +51,79 @@
     animation: caranimation 2s linear infinite;
 }
 .wheel1 {
-    background-image: url("wheel.png");
+    background-image: url("bicycle\ \(1\).png");
     background-size: contain;
     background-repeat: no-repeat;
-    width: 40px;
-    height: 40px;
+    width: 20px;
+    height: 20px;
     position: absolute;
-    bottom: 52px;
-    left: 590px;
+    bottom: 59px;
+    left: 460px;
     z-index: 2;
     animation: wheelanimation .6s linear  infinite;
 }
 .wheel2 {
-    background-image: url("wheel.png");
+    background-image: url("bicycle\ \(1\).png");
     background-size: cover;
     background-repeat: no-repeat;
-    width: 40px;
-    height: 40px;
+    width: 20px;
+    height: 20px;
     position: absolute;
-    bottom: 52px;
+    bottom: 59px;
     left: 425px;
     z-index: 2;
     animation: wheelanimation .6s linear infinite;
+}
+.wheel3 {
+    background-image: url("bicycle\ \(1\).png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    bottom: 59px;
+    left: 485px;
+    z-index: 2;
+    animation: wheelanimation .6s linear  infinite;
+}
+
+.wheel4 {
+    background-image: url("bicycle\ \(1\).png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    bottom: 59px;
+    left: 510px;
+    z-index: 2;
+    animation: wheelanimation .6s linear  infinite;
+}
+
+.wheel5 {
+    background-image: url("bicycle\ \(1\).png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    bottom: 59px;
+    left: 575px;
+    z-index: 2;
+    animation: wheelanimation .6s linear  infinite;
+}
+
+.wheel6 {
+    background-image: url("bicycle\ \(1\).png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    bottom: 59px;
+    left: 610px;
+    z-index: 2;
+    animation: wheelanimation .6s linear  infinite;
 }
 
 @keyframes wheelanimation{
